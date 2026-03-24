@@ -23,8 +23,8 @@
 ## Tools
 
 ![Codex](https://img.shields.io/badge/-Codex-000000?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=claude&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/github_copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=claude&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/github_copilot-000000?style=flat-square&logo=github-copilot&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=white)
