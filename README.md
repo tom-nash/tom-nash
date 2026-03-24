@@ -34,12 +34,13 @@
 ---
 
 ## What I'm Doing
-1. Consulting
-2. Building some side projects
-3. Trying to find and build my next startup
-Building and using AI-powered developer tools as aggressively I can.
-Definitely riding the wave of enhanced developer capabilities. Somewhat in vibe-coding mode (but I put the work in as an engineer).
-I feel completely unburdened by the writers-block / starting friction. The speedbumps just don't exist anymore.
+- **Consulting**
+- **Building some side projects**
+- **Trying to find and build my next startup**
+
+Building and using AI-powered developer tools as aggressively I can.<br>
+Definitely riding the wave of enhanced developer capabilities. Somewhat in vibe-coding mode (but I put the work in as an engineer).<br>
+I feel completely unburdened by the writers-block / starting friction. The speedbumps just don't exist anymore.<br>
 I have been doing rapid prototyping as part of my career since 2019, and now I can finish a commercial prototype in days.
 
 ## Current Projects
