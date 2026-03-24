@@ -10,12 +10,12 @@
 
 ## Code
 
-![Swift](https://img.shields.io/badge/-Swift-FF0000?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-FF7F00?style=flat-square&logo=swift&logoColor=white)
-![GoLang](https://img.shields.io/badge/-GoLang-FFD700?style=flat-square&logo=go&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-00A651?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-007FFF?style=flat-square&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-4B0082?style=flat-square&logo=cplusplus&logoColor=white)
+![GoLang](https://img.shields.io/badge/-GoLang-FFD700?style=flat-square&logo=go&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-00A651?style=flat-square&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FF0000?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-FF7F00?style=flat-square&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-8B00FF?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FF0000?style=flat-square&logo=javascript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-FF7F00?style=flat-square&logo=node.js&logoColor=white)
