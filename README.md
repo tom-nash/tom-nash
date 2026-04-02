@@ -4,11 +4,11 @@
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@tomas-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tomas_nasha)
-[![LinkedIn](https://img.shields.io/badge/-Tom_Nash-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-nash-link)
+[![Twitter](https://img.shields.io/badge/-@tomas-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/tomas_nasha)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tom-nash)
+[![LinkedIn](https://img.shields.io/badge/-Tom_Nash-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-nash-link)
 
-## Code
+## Coding
 
 ![C](https://img.shields.io/badge/-C-007FFF?style=flat-square&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-4B0082?style=flat-square&logo=cplusplus&logoColor=white)
@@ -22,9 +22,10 @@
 
 ## Tools
 
+![Conductor](https://img.shields.io/badge/-Conductor-000000?style=flat-square&logo=conductor&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-000000?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=claude&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/github_copilot-000000?style=flat-square&logo=github-copilot&logoColor=white)
+![Cordon](https://img.shields.io/badge/-Cordon-000000?logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSItNzAgLTcwIDE0MCAxNDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsbGVkYnk9ImNvcmRvbkxvZ29UaXRsZSI+CiAgPHRpdGxlIGlkPSJjb3Jkb25Mb2dvVGl0bGUiPkNvcmRvbiBnZW9tZXRyaWMgbG9nbzwvdGl0bGU+CiAgPHJlY3QgeD0iLTcwIiB5PSItNzAiIHdpZHRoPSIxNDAiIGhlaWdodD0iMTQwIiBmaWxsPSIjMDAwMDAwIiAvPgoKICA8ZyBmaWxsPSJub25lIiBzdHJva2U9Im9rbGNoKDAuOTU4OSAwLjAyOTkgOTMuMSkiIHN0cm9rZS13aWR0aD0iNSI+CiAgICA8IS0tIENlbnRyYWwgc3F1YXJlIChzbWFsbGVyLCBzaGFycCBjb3JuZXJzKSAtLT4KICAgIDxyZWN0IHg9Ii04IiB5PSItOCIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiAvPgogIDwvZz4KICA8ZyBmaWxsPSJub25lIiBzdHJva2U9Im9rbGNoKDAuOTU4OSAwLjAyOTkgOTMuMSkiIHN0cm9rZS13aWR0aD0iNyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4KICAgIDwhLS0gQ29uY2VudHJpYyBjaXJjbGUgKDUwJSBvZiBpbWFnZSBkaW1lbnNpb25zKSAtLT4KICAgIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyNSIgLz4KICA8L2c+CiAgPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSJva2xjaCgwLjk1ODkgMC4wMjk5IDkzLjEpIiBzdHJva2Utd2lkdGg9IjE0Ij4KICAgIDwhLS0gU2VtaWNpcmNsZSAoOTAlIG9mIGltYWdlIGRpbWVuc2lvbnMpLCByb3RhdGVkIDkwZGVnIENDVyAtLT4KICAgIDxwYXRoIGQ9Ik0gMCA0NSBBIDQ1IDQ1IDAgMCAxIDAgLTQ1IiAvPiAgCiAgICA8IS0tIFBhcmFsbGVsIGV4dGVuc2lvbiBsaW5lcyBvZmYgZWFjaCBlbmQgb2YgdGhlIHNlbWljaXJjbGUgLS0+CiAgICA8bGluZSB4MT0iMCIgeTE9IjQ1IiB4Mj0iODAiIHkyPSI0NSIgLz4KICAgIDxsaW5lIHgxPSIwIiB5MT0iLTQ1IiB4Mj0iODAiIHkyPSItNDUiIC8+CiAgPC9nPgo8L3N2Zz4K&style=flat-square&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=white)
