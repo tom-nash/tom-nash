@@ -39,18 +39,12 @@
 - **Building some side projects**
 - **Trying to find and build my next startup**
 
-Building and using AI-powered developer tools as aggressively I can.<br>
-Definitely riding the wave of enhanced developer capabilities.<br>
-I feel completely unburdened by the writers-block / starting friction. The speedbumps just don't exist anymore.<br>
-Somewhat in vibe-coding mode (but I put the work in as an engineer).<br>
-I have been doing rapid prototyping as part of my career since 2019, and now I can finish a commercial prototype in days.
-
 ## Current Projects
 
--  **[Cordon](https://cordon.sh)** - 
--  **[Accretions](https://accretions.app)** - 
--  **[Corla](https://corla.app)** - 
--  **[Strands](https://strands.sh)** - 
+-  **[Cordon](https://cordon.sh)** - Natively enforced entitlement policies and real-time observability for AI coding platforms.
+-  **[Accretions](https://accretions.app)** - AI-enriched idea scoring and prioritisation for founders who have too many half-baked ideas.
+-  **[Corla](https://corla.app)** - An iOS keyboard that lets you translate and reply to in-app chats without leaving the conversation.
+-  **[Strands](https://strands.sh)** - Live visibility into teammates' code changes and intent inside the IDE, before anything hits Git.
 
 ## GitHub Activity
 
@@ -63,3 +57,8 @@ I have been doing rapid prototyping as part of my career since 2019, and now I c
 - Constantly using multiple AI tools in parallel (CC, Codex, Jan when I'm using my self hosted models)
 - Outdoors enthusiast (Camping | Hiking | Rock Climbing | Scuba | 4x4 | Motorcycling | Light Aircraft | Drones)
 - Music obsessed (Vocals | Guitars | Piano | Harmonica | Whistling)
+
+- Building and using AI-powered developer tools as aggressively I can.<br>
+- Definitely riding the wave of enhanced developer capabilities.<br>
+- I feel completely unburdened by the writers-block / starting friction. The speedbumps just don't exist anymore.<br>
+- Somewhat in vibe-coding mode (but I put the work in as an engineer). I have been doing rapid prototyping as part of my career since 2019, and now I can finish a commercial prototype in days.
