@@ -57,7 +57,7 @@
 - Outdoors enthusiast (Camping | Hiking | Rock Climbing | Scuba | 4x4 | Motorcycling | Light Aircraft | Drones)
 - Music obsessed (Vocals | Guitars | Piano | Harmonica | Whistling)
 
-- Building and using AI-powered developer tools as aggressively I can.<br>
-- Definitely riding the wave of enhanced developer capabilities.<br>
-- I feel completely unburdened by the writers-block / starting friction. The speedbumps just don't exist anymore.<br>
-- Somewhat in vibe-coding mode (but I put the work in as an engineer). I have been doing rapid prototyping as part of my career since 2019, and now I can finish a commercial prototype in days.
+- Building and using AI-powered developer tools as aggressively I can.
+- Definitely riding the wave of enhanced developer capabilities.
+- I feel completely unburdened by the writers-block / starting friction. The speedbumps just don't exist anymore.
+- I have been doing rapid prototyping as part of my career since 2019, and now I can finish a commercial prototype in days.
