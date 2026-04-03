@@ -47,8 +47,7 @@
 -  **[Strands](https://strands.sh)** - Live visibility into teammates' code changes and intent inside the IDE, before anything hits Git.
 
 ## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/tom-nash)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tom-nash&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ## Random Facts
 
